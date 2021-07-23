@@ -10,7 +10,7 @@
 
 <article>
 
-    <h1><a href="/post">My first Blog</a></h1>
+    <h1><a href="/posts/my-first-post">My first Blog</a></h1>
 
     <p>
         Today, there are many dummy/filler text generators to choose from,
@@ -25,7 +25,7 @@
 
 <article>
 
-    <h1><a href="/post">My Second Blog</a></h1>
+    <h1><a href="/posts/my-second-post">My Second Blog</a></h1>
 
     <p>
         Today, there are many dummy/filler text generators to choose from,
@@ -39,7 +39,7 @@
 
 <article>
 
-    <h1><a href="/post">My Third Blog</a></h1>
+    <h1><a href="/posts/my-third-post">My Third Blog</a></h1>
 
     <p>
         Today, there are many dummy/filler text generators to choose from,

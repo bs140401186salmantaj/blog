@@ -10,15 +10,9 @@
 
 <article>
 
-    <h1><a href="/post">My first Blog</a></h1>
+    
 
-    <p>
-        Today, there are many dummy/filler text generators to choose from,
-         so you don’t necessarily need to use Lorem ipsum. There’s, for example, 
-         Corporate ipsum which is based off of business terminologies. 
-        Or Cupcake ipsum for those who love baked goods.
-    </p>
-
+    <?=$post;?>
 
 </article>
 
